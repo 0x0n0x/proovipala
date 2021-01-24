@@ -1,1 +1,1 @@
-export const INDEX_PATH = "/";
+export const INDEX_PATH = "/proovipala";
