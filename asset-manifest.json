@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proovipala/static/css/main.7176885d.chunk.css",
+    "main.js": "/proovipala/static/js/main.796c37c7.chunk.js",
+    "main.js.map": "/proovipala/static/js/main.796c37c7.chunk.js.map",
+    "runtime-main.js": "/proovipala/static/js/runtime-main.cc16e916.js",
+    "runtime-main.js.map": "/proovipala/static/js/runtime-main.cc16e916.js.map",
+    "static/css/2.92569678.chunk.css": "/proovipala/static/css/2.92569678.chunk.css",
+    "static/js/2.77e436ea.chunk.js": "/proovipala/static/js/2.77e436ea.chunk.js",
+    "static/js/2.77e436ea.chunk.js.map": "/proovipala/static/js/2.77e436ea.chunk.js.map",
+    "index.html": "/proovipala/index.html",
+    "static/css/2.92569678.chunk.css.map": "/proovipala/static/css/2.92569678.chunk.css.map",
+    "static/css/main.7176885d.chunk.css.map": "/proovipala/static/css/main.7176885d.chunk.css.map",
+    "static/js/2.77e436ea.chunk.js.LICENSE.txt": "/proovipala/static/js/2.77e436ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc16e916.js",
+    "static/css/2.92569678.chunk.css",
+    "static/js/2.77e436ea.chunk.js",
+    "static/css/main.7176885d.chunk.css",
+    "static/js/main.796c37c7.chunk.js"
+  ]
+}
